@@ -1,0 +1,442 @@
+{
+    "(Acute) Mastoiditis": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Acute pancreatitis": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Acute pyelonefritis": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Appendicitis": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Asthma": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Atrophic gastritis": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Bacterial (Gastro)enteritis (Salmonella infection most likely)": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Bacterial (Gastro)enteritis (Yersinia infection most likely)": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Bacterial meningitis": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Bladder cancer": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Breast cancer": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "COPD": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Carpal tunnel syndrome": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Cauda equina (Radicular Syndrome)": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Colon cancer": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Female cystitis": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Functional constipation": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Genital herpes (F)": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Genital herpes (M)": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Giardiasis": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Gonorrhea (F)": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Gout": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Hernia Nuclei Pulposi (Radicular syndrome)": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "IBS (Constipation type)": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Iron deficiency anaemia": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Lower urinary tract infection": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Lumbago (Muscle strain)": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Lumbar spinal stenosis (Radicular syndrome)": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Lung cancer (NSCLC)": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Migraine": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Oesophageal carcinoma": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Osteoarthritis": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Otitis externa": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Otitis media acuta": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Ovarian cancer": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Pneumonia (Adenovirus most likely)": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Pneumonia (Pneumococcal most likely)": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Pneumothorax": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Pulmonary edema (among old)": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Pulmonary edema (among oldest)": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Pulmonary edema (among young)": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Rheumatoid arthritis (F)": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Rheumatoid arthritis (M)": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Subarachnoidal bleeding": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Tension type headache": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Testicular cancer": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Upper urinary tract infection": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Viral (Gastro)enteritis (Norovirus infection most likely)": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Viral meningitis (Enterovirus)": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Viral meningitis (Varicella zoster virus)": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Vitamin B12 deficiency": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Vitamin D deficiency": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "Wernicke-Korsakoff complex": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "viral respiratory infection (COVID-19 most likely)": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    },
+    "viral respiratory infection (Influenza most likely)": {
+        "severity": "moderate",
+        "specialist": "General Medicine",
+        "emergency": false,
+        "recommendations": [
+            "Consult a healthcare professional if symptoms persist."
+        ]
+    }
+}
