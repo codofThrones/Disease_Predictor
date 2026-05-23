@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Node
+node_modules/
+dist/
+
+# Environment
+.env
+
+# ML artifacts
+*.pkl
+
+# Reports
+generated_reports/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vite
+.vite/
+
+# Logs
+*.log
