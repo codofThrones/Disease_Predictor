@@ -1,452 +1,482 @@
 {
-    "Discoloration": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": true
-    },
-    "Pain": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": true
-    },
-    "Discharge": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": true
-    },
-    "Fever": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Runny_nose": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Swelling": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": true
-    },
-    "Vomiting": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Altered_appetite": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Congestion": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": true
-    },
-    "Nausea": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Flatulence": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Bloating": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Altered_stool": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": true
-    },
-    "Altered_urination": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Tightness": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Altered_breathing": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Cough": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": true
-    },
-    "Regurgitation": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Tenesmus": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Focal_neurological_symptoms": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Seizure": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Altered_mental_state": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Stiffness": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Eruption": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": true
-    },
-    "Paresis_Paralysis": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": true
-    },
-    "Urgency_to_urinate": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Mass": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": true
-    },
-    "Skin_retraction": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": true
-    },
-    "Fatigue": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Altered_movement": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": true
-    },
-    "Weakness": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": true
-    },
-    "Altered_sensation": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": true
-    },
-    "Incontinence": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Bleeding": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": true
-    },
-    "Altered_weight": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Altered_apettite": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Self-diagnosis": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Meningitis_symptoms": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Skin_lesion": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": true
-    },
-    "Malaise": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Lymph_node_enlargement": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": true
-    },
-    "Dyspareunia": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Odour": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": true
-    },
-    "Slow_healing": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Dizziness": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Inflammation": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": true
-    },
-    "Altered_cardiac_rhythm": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Altered_cardiac_sounds": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Alopecia": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Nodule": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Audiophobia": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Photophobia": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Altered_vision": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Aura": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Dysphagia": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Reflux": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Voice_change": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Disability": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": true
-    },
-    "Difficulty_walking": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Inactivity": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Cramping": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Click_cracking": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Grating": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Crying": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Altered_behaviour": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": true
-    },
-    "Soreness": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": true
-    },
-    "Indigestion": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Lethargy": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Chills": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Diahrroea": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Anorexia": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Dryness": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": true,
-        "has_location": false
-    },
-    "Photofobia": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Gynaecomastia": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    },
-    "Bone_pain": {
-        "has_present": true,
-        "has_severity": true,
-        "has_detail": false,
-        "has_location": false
-    }
+  "Alopecia": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Altered_apettite": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": false
+  },
+  "Altered_appetite": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": false
+  },
+  "Altered_behaviour": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": true
+  },
+  "Altered_breathing": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": false
+  },
+  "Altered_cardiac_rhythm": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": false
+  },
+  "Altered_cardiac_sounds": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": false
+  },
+  "Altered_mental_state": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": false
+  },
+  "Altered_movement": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": true
+  },
+  "Altered_sensation": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": true
+  },
+  "Altered_stool": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": false
+  },
+  "Altered_urination": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": false
+  },
+  "Altered_vision": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": false
+  },
+  "Altered_weight": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": false
+  },
+  "Anorexia": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": false
+  },
+  "Audiophobia": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Aura": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Bleeding": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": true
+  },
+  "Bloating": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Bone_pain": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Chills": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Click/cracking": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Congestion": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": true
+  },
+  "Cough": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": false
+  },
+  "Cramping": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Crying": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Diahrroea": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Difficulty_walking": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": false
+  },
+  "Disability": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": false
+  },
+  "Discharge": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": true
+  },
+  "Discoloration": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": true
+  },
+  "Dizziness": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": false
+  },
+  "Dryness": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Dyspareunia": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Dysphagia": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Eruption": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": true
+  },
+  "Fatigue": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Fever": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Flatulence": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Focal_neurological_symptoms": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Grating": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Gynaecomastia": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Inactivity": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Incontinence": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Incontinence_": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Indigestion": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Inflammation": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": true
+  },
+  "Lethargy": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Lymph_node_enlargement": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": true
+  },
+  "Malaise": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Mass": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": true
+  },
+  "Meningitis_symptoms": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Nausea": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Nausea_": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Nodule": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Odour": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": true
+  },
+  "Pain": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": true
+  },
+  "Pain_relief": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Pain_relief_": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Paresis_/_Paralysis": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": true
+  },
+  "Photofobia": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Photophobia_": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Reflux": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Regurgitation": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Runny_nose": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": false
+  },
+  "Seizure": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Self-diagnosis": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": false
+  },
+  "Skin_lesion": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": true
+  },
+  "Skin_retraction": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": true
+  },
+  "Slow_healing": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Soreness": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": true
+  },
+  "Stiffness": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Swelling": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": true
+  },
+  "Tenderness": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": true
+  },
+  "Tenesmus": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Tightness": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Urgency_to_urinate": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": false
+  },
+  "Voice_change": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": true,
+    "has_location": false
+  },
+  "Vomiting": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": false
+  },
+  "Weakness": {
+    "has_present": true,
+    "has_severity": true,
+    "has_detail": false,
+    "has_location": true
+  }
 }
